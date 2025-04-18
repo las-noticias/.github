@@ -19,3 +19,10 @@ Esto, por supuesto, tampoco está exento de subjetividad y controversia.
 La otra propiedad de este proyecto es que está orientado a hispanohablantes que viven en España.
 No se excluyen noticias en otros idiomas o sobre otros sitios, pero el propósito principal es ayudar a los españoles a estar informados.
 Si podemos ayudar a más gente, mejor, pero es necesario acotar una misión ya aparentemente inabarcable de por sí.
+
+## Participa
+
+* Mira en [anuncios](https://github.com/orgs/las-noticias/discussions/categories/anuncios) novedades en `las-noticias` de los administradores.
+* Propón en [ideas](https://github.com/orgs/las-noticias/discussions/categories/ideas) cosas para ayudar a que la gente esté mejor informada.
+* Comparte en [proyectos](https://github.com/orgs/las-noticias/discussions/categories/otros-proyectos) otras iniciativas para ayudar.
+* Discute en [meta](https://github.com/orgs/las-noticias/discussions/categories/meta) sobre el funcionamiento de `las-noticias`.
