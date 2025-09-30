@@ -26,3 +26,27 @@ Si podemos ayudar a más gente, mejor, pero es necesario acotar una misión ya a
 * Propón en [ideas](https://github.com/orgs/las-noticias/discussions/categories/ideas) cosas para ayudar a que la gente esté mejor informada.
 * Comparte en [proyectos](https://github.com/orgs/las-noticias/discussions/categories/otros-proyectos) otras iniciativas para ayudar.
 * Discute en [meta](https://github.com/orgs/las-noticias/discussions/categories/meta) sobre el funcionamiento de `las-noticias`.
+
+## Recursos
+
+### [Google News](https://news.google.com/)
+
+Google News tiene RSS si escarbáis a fondo.
+Tiene muchas virtudes, como que agrupa noticias de varios medios en una noticia y que tiene muchas fuentes "primarias" de noticias.
+
+Además, tiene muchas categorías y fuentes de noticias de España.
+
+Sin embargo:
+
+* Los RSS no se comportan bien y aparecen muchas noticias repetidas, con lo que es harto molesto de usar con lector de RSS.
+* No hay manera de personalizar nada por RSS, sólo escoger categorías.
+
+### [Kagi News](https://kite.kagi.com/)
+
+Kagi News es de libre acceso por el momento (aunque Kagi es un buscador de pago).
+
+Ofrece RSS de todas sus categorias que parecen menos problemáticos, aunque algo limitados (unas 10 noticias diarias por categoría).
+
+Sólo hay una categoría generalista para noticias de España.
+
+Sin embargo, lo más interesante es que su listado de RSS es colaborativo.
