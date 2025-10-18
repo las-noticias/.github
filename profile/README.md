@@ -49,4 +49,4 @@ Ofrece RSS de todas sus categorias que parecen menos problemáticos, aunque algo
 
 Sólo hay una categoría generalista para noticias de España.
 
-Sin embargo, lo más interesante es que su listado de RSS es colaborativo.
+Sin embargo, lo más interesante es que [su listado de RSS](https://github.com/kagisearch/kite-public/blob/main/kite_feeds.json) es colaborativo.
